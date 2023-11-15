@@ -2,7 +2,7 @@ sudo apt-get update -qq
 sudo apt upgrade -yy
 
 sudo apt install -y nala
-sudo nala install -y acpi acpid alsa-utils avahi-daemon build-essential curl dialog dunst dbus-x11 dosfstools feh fish gvfs-backends htop libnotify-bin lightdm lxappearance lximage-qt lxterminal mtools neofetch network-manager network-manager-gnome papirus-icon-theme pavucontrol pipewire vlc volumeicon-alsa menu mousepad orage picom qt5-style-plugins rofi scrot thunar tint2 wmctrl
+sudo nala install -y acpi acpid alsa-utils avahi-daemon build-essential curl dialog dunst dbus-x11 dosfstools feh fish gvfs-backends htop libnotify-bin lightdm lxappearance lxterminal mpv mtools neofetch network-manager network-manager-gnome papirus-icon-theme pavucontrol pipewire volumeicon-alsa menu mousepad orage picom qt5-style-plugins rofi scrot thunar tint2 wmctrl
 
 sudo systemctl enable avahi-daemon
 sudo systemctl enable acpid
