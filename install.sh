@@ -8,6 +8,7 @@ sudo systemctl enable avahi-daemon
 sudo systemctl enable acpid
 sudo systemctl enable lightdm.service
 
+xdg-user-dirs-update
 chsh -s /usr/bin/fish
 
 sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
