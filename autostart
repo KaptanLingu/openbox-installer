@@ -3,4 +3,4 @@ feh --bg-fill ~/.wp/wp.png &
 tint2 &
 (sleep 10; volumeicon) &
 nm-applet &
-dunst 
+dunst &
