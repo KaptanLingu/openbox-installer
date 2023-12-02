@@ -2,7 +2,7 @@ sudo apt-get update -qq
 sudo apt upgrade -yy
 
 sudo apt install -y nala
-sudo nala install -y acpi acpid alsa-utils avahi-daemon build-essential curl dialog dunst dbus-x11 dosfstools feh fish gvfs-backends htop libnotify-bin lightdm lxappearance lxterminal mpv mtools neofetch network-manager network-manager-gnome papirus-icon-theme pavucontrol pipewire volumeicon-alsa menu mousepad orage picom qt5-style-plugins rofi scrot thunar tint2 wmctrl
+sudo nala install -y acpi acpid alsa-utils avahi-daemon build-essential curl dialog dunst dbus-x11 dosfstools feh fish gvfs-backends libnotify-bin lightdm lxappearance lxterminal mpv mtools neofetch network-manager network-manager-gnome papirus-icon-theme pavucontrol pipewire volumeicon-alsa menu mousepad picom qt5-style-plugins rofi thunar tint2 wmctrl
 
 sudo systemctl enable avahi-daemon
 sudo systemctl enable acpid
@@ -24,4 +24,7 @@ sudo cp tint2rc ~/.config/tint2/
 mkdir ~/.config/openbox/
 sudo cp autostart ~/.config/openbox/
 
+sudo cp picom.conf ~/.config
+
 sudo reboot
+Eğer kapsamlı bir kişiselleştirme yapmak istiyorsanız internette bulunan bununla ilgili rehberlerden yararlanabilirsiniz.
