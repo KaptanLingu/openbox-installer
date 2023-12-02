@@ -35,11 +35,8 @@ Bu betiğin amacı Openbox kurulumunu ve özelleştirmesini kolaylaştırmaktır
 - İnternet sürücüleri (`avahi`, `network-manager` vb.)
 - Ses sürücüleri (`pipewire`)
 - Gizliliğe önem veren bir tarayıcı (`brave`)
-- Takvim uygulaması (`orage`)
 - Bildirim arka plan programı (`dunst`)
 - Yeni ikon teması (`papirus`)
-- Ekran görüntüsü alıcı (`scrot`)
-- Terminal süreç görüntüleyici (`htop`)
 - ay yuuz debiyan baydıwey (`neofetch`)
   
  ve dahası...
