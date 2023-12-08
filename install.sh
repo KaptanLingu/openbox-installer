@@ -27,4 +27,3 @@ sudo cp autostart ~/.config/openbox/
 sudo cp picom.conf ~/.config
 
 sudo reboot
-Eğer kapsamlı bir kişiselleştirme yapmak istiyorsanız internette bulunan bununla ilgili rehberlerden yararlanabilirsiniz.
