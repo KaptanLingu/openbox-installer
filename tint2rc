@@ -46,7 +46,7 @@ border_color_pressed = #ffffff 60
 #-------------------------------------
 # Panel
 panel_items = PLTSCP
-panel_size = 99% 31
+panel_size = 100% 31
 panel_margin = 0 0
 panel_padding = 7 0 7
 panel_background_id = 1
