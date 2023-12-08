@@ -13,7 +13,7 @@
 
 ## [TR] YÜKLEMEDEN ÖNCE
 
-Bu betiği kullanmadan önce kullandoğınız dağıtıma herhangi bir masaüstü ortamı (DE) veya pencere yöneticisi (WM) kurmamış olmanız gerekmektedir.
+Bu betiği kullanmadan önce kullandığınız dağıtıma herhangi bir masaüstü ortamı (DE) veya pencere yöneticisi (WM) kurmamış olmanız gerekmektedir.
 
 Bu betiği şu anlık Debian için yapmış olsam da ileride Arch ve Fedora için de hazırlamak istiyorum.
 
