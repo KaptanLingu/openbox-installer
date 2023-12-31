@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.hizliresim.com/f20bxna.png">
+  <img src="https://i.hizliresim.com/fr7z4a2.png">
 </div>
   <p align="center">After the installation | Kurulumdan sonra</p>
 
